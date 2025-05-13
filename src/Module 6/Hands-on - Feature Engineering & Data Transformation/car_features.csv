@@ -1,0 +1,11 @@
+Car_ID,Mileage,Horsepower,Fuel_Type
+1,12000,130,Petrol
+2,15000,140,Diesel
+3,10000,120,Petrol
+4,18000,160,Diesel
+5,20000,170,CNG
+6,11000,125,Petrol
+7,17000,155,Diesel
+8,9000,115,CNG
+9,13000,135,Petrol
+10,16000,150,Diesel
