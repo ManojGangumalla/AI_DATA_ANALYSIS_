@@ -1,0 +1,11 @@
+age,income,gender
+25,50000,Male
+30,60000,Female
+35,75000,Female
+40,,Male
+45,100000,Male
+28,55000,Female
+50,120000,Male
+22,48000,Female
+39,70000,Male
+31,62000,Other

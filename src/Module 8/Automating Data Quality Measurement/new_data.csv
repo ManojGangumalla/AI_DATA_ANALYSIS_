@@ -1,0 +1,7 @@
+age,income,anomaly_iforest,anomaly_rule
+25,50000,1,False
+30,60000,1,False
+35,75000,1,False
+40,80000,1,False
+45,90000,1,False
+1000,-5000,-1,True
