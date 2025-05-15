@@ -1,5 +1,5 @@
-customer_id,name,email
-1,Alice,alice@example.com
-2,Bob,bob@example.com
-3,Charlie,charlie@example.com
-4,David,david@crm.com
+customer_id,name,address
+1,John Doe,123 Elm St
+2,Jane Smith,456 Oak Ave
+3,Alan Turner,789 Pine Rd
+4,Lisa Ray,101 Maple Dr
