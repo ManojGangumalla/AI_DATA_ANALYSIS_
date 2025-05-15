@@ -1,0 +1,10 @@
+ID,Name,Age,Grade,Email
+1,Alice,20,85,alice@example.com
+2,Bob,22,90,bob.example.com
+3,Charlie,,75,charlie@example.com
+4,Diana,19,105,diana@example
+5,Edward,21,88,edward@example.com
+6,Faith,-1,95,faith@example.com
+7,Grace,23,abc,grace@example.com
+8,Hank,25,80,
+9,Ivy,22,70,ivy@example.com
