@@ -1,0 +1,2 @@
+2025-05-15 10:36:35,475 - ERROR - File not found: non_existent_file.csv
+2025-05-15 10:36:35,486 - INFO - Missing Rate: 33.33%, Mismatch Rate: 66.67%
