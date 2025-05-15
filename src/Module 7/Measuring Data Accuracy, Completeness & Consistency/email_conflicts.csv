@@ -1,0 +1,3 @@
+customer_id,name_crm,email_crm,name_erp,email_erp
+2,Bob,bob@example.com,Bob,bobby@example.com
+4,David,david@crm.com,David,david@erp.com
