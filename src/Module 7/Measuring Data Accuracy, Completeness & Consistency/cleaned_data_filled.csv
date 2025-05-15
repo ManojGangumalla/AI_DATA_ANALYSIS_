@@ -1,0 +1,9 @@
+customer_id,name,email,phone_number,address
+1,Alice,alice@example.com,1234567890.0,123 Apple St
+2,Bob,no_email@example.com,9876543210.0,456 Orange Ave
+3,Charlie,charlie@example.com,0000000000,789 Banana Blvd
+4,David,david@example.com,5555555555.0,
+5,Eva,no_email@example.com,0000000000,
+6,Frank,frank@example.com,2223334444.0,321 Peach Dr
+7,Grace,grace@example.com,0000000000,654 Grape Ln
+8,Henry,henry@example.com,1112223333.0,888 Mango Way
