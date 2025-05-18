@@ -1,0 +1,6 @@
+column_name,data_type,nullable,min_value,max_value
+id,int,False,,
+name,str,False,,
+age,int,False,0,120
+email,str,True,,
+balance,float,False,0,

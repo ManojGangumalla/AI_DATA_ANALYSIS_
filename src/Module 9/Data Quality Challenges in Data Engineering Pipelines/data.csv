@@ -1,0 +1,7 @@
+id,name,age,email,balance
+1,Alice,25,alice@example.com,1000.5
+2,Bob,130,bob@example.com,2000.0
+3,Charlie,,charlie@example.com,1500.0
+4,,35,david@example.com,500.0
+5,Eve,29,,1200.0
+6,Frank,28,frank@example.com,-50.0
