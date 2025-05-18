@@ -1,0 +1,22 @@
+{
+  "type": "record",
+  "name": "Person",
+  "namespace": "example.avro",
+  "fields": [
+    {"name": "name", "type": "string"},
+    {"name": "age", "type": "int"},
+    {"name": "emails", "type": {"type": "array", "items": "string"}},
+    {
+      "name": "address",
+      "type": {
+        "type": "record",
+        "name": "Address",
+        "fields": [
+          {"name": "street", "type": "string"},
+          {"name": "city", "type": "string"},
+          {"name": "zipcode", "type": "string"}
+        ]
+      }
+    }
+  ]
+}
