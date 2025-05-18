@@ -1,0 +1,4 @@
+[
+  {"id": 1, "name": "John", "age": 30, "email": "john@example.com", "is_active": true, "balance": 100.50},
+  {"id": 2, "name": "Jane", "age": "25", "email": "jane@example.com", "is_active": false, "balance": 200}
+]
