@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/612160293557755391/c32d8e1103bd4b1990956f42b11ad01c/artifacts
+end_time: 1748432484237
+entry_point_name: ''
+experiment_id: '612160293557755391'
+lifecycle_stage: active
+run_id: c32d8e1103bd4b1990956f42b11ad01c
+run_name: unequaled-goat-836
+run_uuid: c32d8e1103bd4b1990956f42b11ad01c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748432481371
+status: 3
+tags: []
+user_id: vscode
