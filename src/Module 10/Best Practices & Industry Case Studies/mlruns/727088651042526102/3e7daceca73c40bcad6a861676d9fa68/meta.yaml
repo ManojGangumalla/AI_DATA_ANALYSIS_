@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/727088651042526102/3e7daceca73c40bcad6a861676d9fa68/artifacts
+end_time: 1748432594008
+entry_point_name: ''
+experiment_id: '727088651042526102'
+lifecycle_stage: active
+run_id: 3e7daceca73c40bcad6a861676d9fa68
+run_name: bittersweet-cow-709
+run_uuid: 3e7daceca73c40bcad6a861676d9fa68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748432593361
+status: 4
+tags: []
+user_id: vscode
